@@ -58,7 +58,7 @@ Currently seeking a Work Integrated Learning opportunity to apply academic knowl
 ## Reflection on Coding my CV in Markdown 
 
 **Situation:**  
-I was required to create a professional CV using Markdown as part of my digital portfolio assessment.
+I was required to create a professional CV using Markdown as part of my digital portfolio assessment , it was not easy at first because it was my first time using markdown and GitHub,but i check tutorials, instructions and my lessons and I finally go it right.
 
 **Task:**  
 My task was to learn how Markdown works and use it to structure and present my CV in a clear and professional way on GitHub.
@@ -70,6 +70,9 @@ I researched basic Markdown syntax such as headings, bullet points, and text for
 I successfully created a clean and well-formatted CV using Markdown. This task improved my understanding of how developers document information and helped me gain confidence in presenting my skills professionally online.
 
 
+
+
+https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drivesdk
 
 
 ## Reflection on Mock Interview Video
