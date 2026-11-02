@@ -78,7 +78,8 @@ https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drive
 
 Agile Team Charter 
 
-Agile Team Charter.pdf
+Agile%20Team%20Charter.pdf
+
 
 **Reflection on Agile Team Charter**
 
