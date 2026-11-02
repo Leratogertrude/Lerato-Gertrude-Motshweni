@@ -78,7 +78,8 @@ https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drive
 
 Agile Team Charter 
 
-Agile%20Team%20Charter.pdf
+[Agile%20Team%20Charter.pdf](https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/4e85fd6b1f0b00429d309c43f4ca3c7934c7d8b6/Agile%20Team%20Charter.pdf)
+
 
 
 **Reflection on Agile Team Charter**
