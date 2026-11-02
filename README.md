@@ -76,34 +76,7 @@ https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drive
 
 
 
-Agile Team Charter 
-
-[Agile%20Team%20Charter.pdf](https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/4e85fd6b1f0b00429d309c43f4ca3c7934c7d8b6/Agile%20Team%20Charter.pdf)
 
 
 
-**Reflection on Agile Team Charter**
 
-**Situation:**
-As part of the CareerCraft project, our team was required to develop an Agile Team Charter to establish how we would work together and manage the project using Agile principles.
-
-**Task:**
-My task was to contribute to the creation of the Agile Team Charter by helping define the project vision, team roles, communication methods, working agreements, and project expectations.
-
-**Action:**
-I collaborated with my team members to identify our project goals and responsibilities. We discussed how we would communicate, make decisions, manage risks, and conduct Scrum ceremonies. We also defined our Definition of Done (DoD), team values, and commitments to ensure everyone had a shared understanding of the project.
-
-**Result:**
-The Agile Team Charter was successfully completed and provided a clear framework for the team. It improved understanding of individual responsibilities, strengthened communication, and established a structured approach for managing the CareerCraft project. Through this activity, I gained a better understanding of Agile principles, teamwork, and project planning.
-
-
-
-Product Backlog
-Evidence:                 
-Reflection:    
-Sprint Backlog      
-Evidence:       
-Reflection:       
-Agile Logbook      
-Evidence:      
-Reflection: 
