@@ -1,4 +1,4 @@
-# Lerato-Gertrude-Motshweni
+<img width="3945" height="2268" alt="image" src="https://github.com/user-attachments/assets/79b6bf3d-0fa4-41c0-937c-622734834707" /># Lerato-Gertrude-Motshweni
 # Lerato Gertrude Motshweni
 
 📍 Cape Town  
@@ -75,16 +75,20 @@ I successfully created a clean and well-formatted CV using Markdown. This task i
 https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drivesdk
 
 
-## Reflection on Mock Interview Video
+**Reflection on Agile Team Charter**
 
-**Situation:**  
-I had to record a mock interview video as part of my portfolio to demonstrate my communication and interview skills.
+**Situation:**
+As part of the CareerCraft project, our team was required to develop an Agile Team Charter to establish how we would work together and manage the project using Agile principles.
 
-**Task:**  
-My task was to answer common interview questions clearly and confidently while presenting myself in a professional manner.
+**Task:**
+My task was to contribute to the creation of the Agile Team Charter by helping define the project vision, team roles, communication methods, working agreements, and project expectations.
 
-**Action:**  
-I prepared by practicing the interview questions options that where given to me and thinking about my strengths and experiences. During the recording, I focused on speaking clearly, maintaining confidence, and structuring my answers properly. I also reviewed my video to identify areas where I could improve.
+**Action:**
+I collaborated with my team members to identify our project goals and responsibilities. We discussed how we would communicate, make decisions, manage risks, and conduct Scrum ceremonies. We also defined our Definition of Done (DoD), team values, and commitments to ensure everyone had a shared understanding of the project.
 
-**Result:**  
-I was able to complete the mock interview successfully. This experience helped me improve my confidence, communication skills, and ability to present myself professionally. I also learned the importance of preparation for real job interviews.
+**Result:**
+The Agile Team Charter was successfully completed and provided a clear framework for the team. It improved understanding of individual responsibilities, strengthened communication, and established a structured approach for managing the CareerCraft project. Through this activity, I gained a better understanding of Agile principles, teamwork, and project planning.
+
+
+
+
