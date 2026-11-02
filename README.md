@@ -75,6 +75,11 @@ I successfully created a clean and well-formatted CV using Markdown. This task i
 https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drivesdk
 
 
+
+Agile Team Charter 
+
+Agile Team Charter.pdf
+
 **Reflection on Agile Team Charter**
 
 **Situation:**
