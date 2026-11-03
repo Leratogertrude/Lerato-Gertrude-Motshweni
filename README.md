@@ -1,4 +1,4 @@
-<img width="3945" height="2268" alt="image" src="https://github.com/user-attachments/assets/79b6bf3d-0fa4-41c0-937c-622734834707" /># Lerato-Gertrude-Motshweni
+
 # Lerato Gertrude Motshweni
 
 📍 Cape Town  
