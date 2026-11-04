@@ -49,9 +49,7 @@ Currently seeking a Work Integrated Learning opportunity to apply academic knowl
   📞 0765570256 | ✉️ MahlanguL@gmail.com  
 
 - **Mr. Manatse** – Lecturer, CPUT (HC in ICT)  
-  📞 0838224546 | ✉️ ManatsePhil44@gmail.com  
-
-
+  📞 0838224546 | ✉️ ManatsePhil44@gmail.com
 
 
 
@@ -69,6 +67,105 @@ I researched basic Markdown syntax such as headings, bullet points, and text for
 **Result:**  
 I successfully created a clean and well-formatted CV using Markdown. This task improved my understanding of how developers document information and helped me gain confidence in presenting my skills professionally online.
 
+
+
+https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drivesdk
+
+
+
+# CareerCraft | Agile Project Portfolio
+
+Welcome to my CareerCraft digital portfolio for Project Presentation 3.
+
+This portfolio showcases the planning, collaboration, organisation and application of Agile project management practices throughout the CareerCraft project. It also highlights my individual contributions, learning experiences and development.
+
+---
+
+## Portfolio Overview
+
+| No. | Portfolio Section | Navigate |
+|:---:|---|---|
+| 01 | Agile Team Charter | [View Section](#1-agile-team-charter) |
+| 02 | User Stories and Tasks | [View Section](#2-user-stories-and-tasks) |
+| 03 | Product Backlog | [View Section](#3-product-backlog) |
+| 04 | Sprint Backlog | [View Section](#4-sprint-backlog) |
+| 05 | Agile Logbook | [View Section](#5-agile-logbook) |
+
+---
+
+# Portfolio Evidence and Reflections
+
+## 1. Agile Team Charter
+
+This section presents the team's shared purpose, values, responsibilities and working agreements that guided collaboration throughout the CareerCraft project.
+
+### Evidence
+<!-- Insert Agile Team Charter evidence here -->
+
+### Reflection
+[Read My Reflection](./Agile-Team-Charter/Reflection.md)
+
+[Back to Top](#careercraft--agile-project-portfolio)
+
+---
+
+## 2. User Stories and Tasks
+
+This section presents the user stories and tasks identified to understand project requirements and break down the work into manageable activities.
+
+### Evidence
+<!-- Insert User Stories and Tasks evidence here -->
+
+### Reflection
+[Read My Reflection](./User-Stories-and-Tasks/Reflection.md)
+
+[Back to Top](#careercraft--agile-project-portfolio)
+
+---
+
+## 3. Product Backlog
+
+This section presents the prioritised list of requirements, features and tasks identified for the CareerCraft project.
+
+### Evidence
+<!-- Insert Product Backlog evidence here -->
+
+### Reflection
+[Read My Reflection](./Product-Backlog/Reflection.md)
+
+[Back to Top](#careercraft--agile-project-portfolio)
+
+---
+
+## 4. Sprint Backlog
+
+This section presents the tasks selected for sprint execution, including the planned activities and work required to achieve the sprint goals.
+
+### Evidence
+<!-- Insert Sprint Backlog evidence here -->
+
+### Reflection
+[Read My Reflection](./Sprint-Backlog/Reflection.md)
+
+[Back to Top](#careercraft--agile-project-portfolio)
+
+---
+
+## 5. Agile Logbook
+
+This section documents project progress, team activities, sprint planning, daily updates and retrospective notes.
+
+### Evidence
+<!-- Insert Agile Logbook evidence here -->
+
+### Reflection
+[Read My Reflection](./Agile-Logbook/Reflection.md)
+
+[Back to Top](#careercraft--agile-project-portfolio)
+
+---
+
+**CareerCraft | Project Presentation 3 | 2026**
 
 
 
