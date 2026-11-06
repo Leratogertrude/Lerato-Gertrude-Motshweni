@@ -1,45 +1,15 @@
-# Reflection: Agile Team Charter
-
-## 1. Introduction
-
-Developing the CareerCraft Agile Team Charter helped me understand the importance of establishing a clear foundation before starting a software development project. The charter provided our team with a shared understanding of the project's purpose, individual responsibilities, communication methods, expectations and goals.
-
-As the Business Analyst and Quality Assurance Lead, I understood that my role involved helping the team maintain clarity around requirements, quality standards and project expectations.
-
-## 2. My Contribution
-
-My contribution to the team charter involved defining and documenting responsibilities related to business analysis and quality assurance. I was responsible for refining project requirements, identifying acceptance criteria, supporting testing activities and ensuring that project evidence and review outcomes were documented.
-
-I also contributed to establishing shared working agreements, communication practices and delivery standards. This helped clarify how team members should collaborate, communicate progress and handle challenges during development.
-
-## 3. What I Learned
-
-Through this activity, I learned that successful Agile development requires more than technical skills. A team needs clear responsibilities, effective communication and a shared understanding of what it wants to achieve.
-
-I also gained a better understanding of how different Agile roles contribute to the same project goal. The charter showed me why requirements need to be clearly defined and why quality should be considered throughout development rather than only at the end.
-
-Another important lesson was the value of transparency and accountability. Communicating delays, challenges and progress honestly helps the team make better decisions and avoid misunderstandings.
-
-## 4. Challenges and Areas for Improvement
-
-One of the challenges was ensuring that responsibilities and expectations were clearly defined while considering the different roles within the team. It was important to make sure that everyone understood their responsibilities without limiting collaboration.
-
-I also recognised that having a communication plan does not automatically guarantee effective communication. The team needs to follow the agreed arrangements consistently and ensure that decisions and progress are properly recorded.
-
-Going forward, I would like to improve how I contribute to discussions, refine acceptance criteria and communicate quality-related concerns during development.
-
-## 5. Application to My Professional Development
-
-This activity strengthened my understanding of the Business Analyst and Quality Assurance roles in an Agile environment. It helped me recognise the importance of documentation, requirement analysis, teamwork and maintaining quality throughout a project's lifecycle.
-
-These skills are relevant to my development as an ICT professional because they are not limited to software development. They are also important in IT support, systems analysis, networking projects and other technical environments where teamwork and clear communication are essential.
-
-## 6. Conclusion
-
-Overall, creating the CareerCraft Agile Team Charter was a valuable learning experience. It gave our team a structured foundation for working together and helped me understand my responsibilities within the project.
-
-I learned that effective teamwork depends on accountability, communication, collaboration and shared goals. I intend to apply these lessons throughout the remaining stages of the CareerCraft project and in my future professional career.
-
 ---
 
-*CareerCraft Entrepreneurial WIL Project | 2026*
+## Reflection 
+
+### Situation
+We were a four-person student team building **CareerCraft**, an AI-supported career platform for South African graduates. The assessment required an Agile Team Charter as a social contract: purpose, roles, ceremonies, working agreements and a Definition of Done. At the same time, the product idea was still broad, roles overlapped, and later sprints showed that a document written at the start would not automatically match how we actually worked.
+
+### Task
+My task was to use the charter as evidence of how the team agreed to work, then reflect on whether those agreements helped or failed in real sprints. I needed to show learning, not only copy the template.
+
+### Action
+I selected the charter because it records why the team exists, who owns what, how we communicate, and when work is really done. I compared it with the logbook. Initiation Week 4 was used to document roles and ceremonies. Sprint 4 showed the practical problem: some responsibilities overlapped and some backlog items were solution statements rather than user stories, so we had to rewrite items and assign owners. Sprint 5 tested the working agreements when lecturer feedback said the prototype was too dark. Instead of defending the first design, the team changed the palette and reviewed accessibility. I also noted gaps in the charter itself: decision-making boxes were unticked, the document mentioned two-week sprints while delivery used shorter cycles, and the success line named “Youth Catalyst Lab” while the product is CareerCraft.
+
+### Result
+The charter helped the team speak the same language about purpose, stand-ups, reviews and quality. The Definition of Done made it clearer that a screen is not finished until it is reviewed, accepted and safe. The result of using it critically was also honesty: a charter only works if it is kept alive. I learned to separate **role titles** from **task ownership**, to raise blockers early, and to treat feedback as part of the agreement. Next time I would tick one decision-making method, write the real sprint length, keep the product name consistent, and review the charter after the first sprints rather than leaving it as a start-of-project file.
