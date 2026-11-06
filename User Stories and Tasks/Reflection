@@ -1,1 +1,20 @@
 
+---
+
+## Reflection (STAR)
+
+### Situation
+CareerCraft is a student project to help South African graduates whose CVs often never pass Applicant Tracking Systems. Our team had a sprint logbook that labelled each week with a “user story”, and the assessment required stories written from the **end-user’s** perspective, then broken into tasks. At the start, many board items were still **solution statements** (what we would build) rather than user needs (why the user needed it).
+
+### Task
+My task was to select the strongest stories from our backlog and logbook, rewrite them as **As a … I want … so that …**, split each story into owned tasks with acceptance criteria, and reflect on what that process taught me about Agile delivery.
+
+### Action
+I mapped the product around the graduate journey: reusable profile, ATS-ready CV, modular editor, save/retrieve, honest LinkedIn AI, Free/Premium access, and GitHub projects on the CV. I used the logbook as evidence, especially Sprint 4, where the team rewrote unclear stories, assigned owners and stopped overlapping tasks. For the AI stories I kept the safeguard that output must use the user’s real facts and must not invent achievements. I also added acceptance criteria so “done” was testable, not just “the screen exists”.
+
+### Result
+The result was a backlog that is easier to plan, own and demonstrate. I learned that a story is not sprint-ready until it has a **user**, a **benefit**, **tasks**, an **owner** and **acceptance criteria**. Rewriting sprint themes into real user stories also connected the work to CareerCraft’s purpose: making qualified graduates visible to employers. Next time I would write stories **before** sprint planning, keep one owner per task, and save dated board screenshots so the evidence is not reconstructed later.
+```
+
+---
+
