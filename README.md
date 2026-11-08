@@ -100,8 +100,7 @@ This portfolio showcases the planning, collaboration, organisation and applicati
 This section presents the team's shared purpose, values, responsibilities and working agreements that guided collaboration throughout the CareerCraft project.
 
 ### Evidence
-[Evidence.pdf](https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Team%20Charter/Evidence.pdf)
-Reflection
+[[Evidence.pdf]([(https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/dcf44f9cce00c47f2419b905b371f004ea33a2e4/Agile%20Team%20Charter/Evidence.pdf))]
 
 ### Reflection
 [Read My Reflection]([./Agile-Team-Charter/Reflection.md](https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Team%20Charter/Reflection))
