@@ -151,16 +151,59 @@ https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Te
 ## 3. Product Backlog
 
 This section presents the prioritised list of requirements, features and tasks identified for the CareerCraft project.
-
+---
 ### Evidence
 <img width="317" height="646" alt="image" src="https://github.com/user-attachments/assets/940f7c4e-ce8d-45fa-983e-2232230dc0d0" />
 
 <img width="328" height="642" alt="image" src="https://github.com/user-attachments/assets/9bdfb77e-3ca1-4dba-9a6a-8d53c8225470" />
 
-
+---
 ### Reflection
-[Read My Reflection](./Product-Backlog/Reflection.md)
 
+### Situation
+I am **Lerato Motshweni**, Developer / Analyst / Tester.
+The Trello product backlog had **50** cards. Some still say **Youth Catalyst Lab**,
+which was our old name before **CareerCraft**. Cards also mix product features (templates, portal, AI) with process
+work (stand-ups) and later launch work (October pilot). My risk was treating that column as a dump instead of an ordered 
+backlog.
+
+### Task
+My task was to evidence the real board, explain the name change, 
+show how items were split into tasks, and reflect on my analyst/tester role in ranking and refining work.
+
+### Action
+I screenshot the **PRODUCT BACKLOG** column and opened complete cards rather than inventing extra items.
+
+I used three cards as my working examples:
+
+- **CV Template Design: Design & Arts (3 Sep)** has my **L** avatar.
+The description ties the template to Pnet stats and ATS rules. The checklist is the breakdown I care about as a tester:
+research aesthetics, build ATS templates, test with sample portfolios, get Livhuwani’s approval. 
+That is a product-backlog item turned into tasks.
+- **Beta-Testing Workshops** shows validation on the backlog, not only build work: recruit testers, 
+walk through the portal, collect AI-prompt feedback, log bugs on the Blocked list.
+- **Final System QA** kept regression, MFA/security and payment success/failure on the list as **High Priority**, 
+so quality was not an afterthought.
+
+I also left process cards visible. **Daily Stand-up & Board Management Rituals (19 Jun)** is Lwandile’s recurring card.
+It is not a user feature, but it is how the backlog was walked **right to left** every day. 
+That matches our charter: 15-minute stand-up, 4-hour response rule, clear blockers.
+
+For naming, I did not edit history.
+**Portal: Youth Catalyst Lab Web Build** stays in the screenshot. In this portfolio I say the product is CareerCraft.
+
+I did **not** mark **Final Project Report & Velocity Review (1/4)** as complete. 
+October cards stay as later product-backlog work, not as June–September sprint completions.
+
+### Result
+The evidence is Trello: column + card checklists + owners. I learned that a backlog is useful when:
+
+- old names are explained, not hidden  
+- a feature card has tasks I can pass or fail  
+- research, DoD, workshops and QA sit next to build cards  
+- unfinished work stays unfinished  
+
+If I did this again I would keep CareerCraft as the only product name on new cards, pin DoR/DoD on the list header, and keep Must items at the top of Trello so the board rank matches the real order. I do not need more cards. I need this board, these four card close-ups, and an honest STAR reflection
 [Back to Top](#careercraft--agile-project-portfolio)
 
 ---
