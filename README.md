@@ -129,7 +129,8 @@ https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Te
 This section presents the prioritised list of requirements, features and tasks identified for the CareerCraft project.
 
 ### Evidence
-<img width="328" height="642" alt="image" src="https://github.com/user-attachments/assets/ce3ef2c9-4e1c-4767-b792-41a97a568b15" />
+<img width="317" height="646" alt="image" src="https://github.com/user-attachments/assets/940f7c4e-ce8d-45fa-983e-2232230dc0d0" />
+
 <img width="328" height="642" alt="image" src="https://github.com/user-attachments/assets/9bdfb77e-3ca1-4dba-9a6a-8d53c8225470" />
 
 
