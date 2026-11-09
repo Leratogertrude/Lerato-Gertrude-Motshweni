@@ -132,11 +132,13 @@ The result of using it critically was also honesty: a charter only works if it i
 I learned to separate **role titles** from **task ownership**, to raise blockers early, and to treat feedback as part of the agreement.
 Next time I would tick one decision-making method, write the real sprint length, keep the product name consistent, 
 and review the charter after the first sprints rather than leaving it as a start-of-project file.
+
 ---
 
 ## 2. User Stories and Tasks
 
 This section presents the user stories and tasks identified to understand project requirements and break down the work into manageable activities.
+
 ---
 ### Evidence
 
@@ -298,48 +300,56 @@ related tasks and acceptance criteria are clear before implementation.
 ## 5. Agile Logbook
 
 This section documents project progress, team activities, sprint planning, daily updates and retrospective notes.
-
+---
 ### Evidence
-<!-- Insert Agile Logbook evidence here -->
 
+<img width="992" height="773" alt="image" src="https://github.com/user-attachments/assets/7243a78d-1661-424c-adf1-447d84efeca6" />
+<img width="970" height="372" alt="image" src="https://github.com/user-attachments/assets/b5d8c630-5345-43b2-bbcb-76777ba487a1" />
+<img width="990" height="807" alt="image" src="https://github.com/user-attachments/assets/962b965f-88b3-45bd-9852-b6af7a28cf4e" />
+<img width="940" height="815" alt="image" src="https://github.com/user-attachments/assets/e0f6ebaf-f89b-4dcb-a217-a5352d6df2b6" />
+
+
+---
 ### Reflection
+
+## Reflection: Agile Logbook
 
 ### Situation
 
-During the CareerCraft project, our team used an Agile logbook to record
-sprint activities, plans and blockers. The logbook helped us track our work
-across activities such as backlog refinement, prototype design and responding
-to lecturer feedback.
+From 4 to 7 August 2026, our team worked on improving the CareerCraft
+website prototype after presenting it to the class. The lecturer’s
+feedback highlighted that the dark theme felt too heavy and that the
+prototype still needed a logo, a Free Tier, a brand guideline and
+functional GitHub links.
 
 ### Task
 
-As a team member involved in analysis and testing, I needed to keep track of
-my responsibilities, communicate progress and identify issues that could
-affect the team’s work.
+My responsibility was to contribute to CareerCraft’s visual identity by
+designing the logo. I also researched brand guideline standards to support
+the team’s documentation.
 
 ### Action
 
-During Sprint 4, I worked with Lwandile to refine unclear user stories and
-task descriptions after the team reviewed lecturer feedback. The logbook
-recorded the team’s progress, including discussions about overlapping task
-ownership and plans for the design sprint.
+I developed initial logo concepts and discussed them with the team. After
+receiving feedback, I worked with the team to finalise the logo. I also
+researched brand guideline standards while other team members worked on the
+colour palette, Free Tier, guideline document and GitHub links.
 
-In Sprint 5, I researched colour contrast and accessible palette guidance
-after the lecturer identified readability concerns in the prototype. The
-logbook recorded this work alongside the team’s screen updates and plans for
-a follow-up review.
+The Agile logbook recorded our completed work, plans for the next stand-up
+and blockers. One challenge recorded was that the team needed more time to
+agree on colour choices and apply them consistently.
 
 ### Result
 
-The logbook provided a record of what the team reported completing, what was
-planned next and which blockers needed attention. It helped connect our
-backlog work and design changes to the feedback we received.
+The team completed a walkthrough of the updated prototype with a brighter
+colour scheme, the new logo, a Free Tier section and a brand guideline.
+The logbook also recorded that minor mobile-view polishing remained.
 
-I learned that recording progress is important not only for tracking tasks
-but also for explaining how decisions were made. In future, I would record
-updates as work happens and attach links to Trello cards, feedback and
-prototype versions so that each entry is easier to verify.
-```
+I learned that an Agile logbook helps a team track progress, make blockers
+visible and coordinate work between members. In future, I would record my
+own updates as work happens and link them to the relevant logo concepts,
+feedback and final assets so that my contribution is easier to verify.
+
 
 [Back to Top](#careercraft--agile-project-portfolio)
 
@@ -347,7 +357,7 @@ prototype versions so that each entry is easier to verify.
 
 **CareerCraft | Project Presentation 3 | 2026**
 
-https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTIb5130f0bbee2eea64b414987cf0dbe800E0BF93E/careercraft
+
 
 
 
