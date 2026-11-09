@@ -51,7 +51,7 @@ Currently seeking a Work Integrated Learning opportunity to apply academic knowl
 - **Mr. Manatse** – Lecturer, CPUT (HC in ICT)  
   📞 0838224546 | ✉️ ManatsePhil44@gmail.com
 
-
+---
 
 ## Reflection on Coding my CV in Markdown 
 
@@ -67,11 +67,11 @@ I researched basic Markdown syntax such as headings, bullet points, and text for
 **Result:**  
 I successfully created a clean and well-formatted CV using Markdown. This task improved my understanding of how developers document information and helped me gain confidence in presenting my skills professionally online.
 
-
+---
 
 https://drive.google.com/file/d/1swtq1fyxoFqVqoV0dVRjnhiBsVVgwDz8/view?usp=drivesdk
 
-
+---
 
 # CareerCraft | Agile Project Portfolio
 
@@ -137,12 +137,48 @@ and review the charter after the first sprints rather than leaving it as a start
 ## 2. User Stories and Tasks
 
 This section presents the user stories and tasks identified to understand project requirements and break down the work into manageable activities.
-
+---
 ### Evidence
 https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Team%20Charter/Evidence.pdf
-
+---
 ### Reflection
 
+## Reflection 1: Agile Team Charter
+
+### Situation
+
+Our team needed a shared agreement to guide how we would work together on
+CareerCraft, a project intended to help students and graduates prepare for
+employment. The charter set out our purpose, team roles, communication
+channels, working agreements and approach to Scrum.
+
+### Task
+
+We needed to establish clear responsibilities and ways of working so that
+the team could coordinate its efforts, address blockers and deliver work
+that supported our shared vision.
+
+### Action
+
+I reviewed the team’s purpose, roles and working agreements and considered
+how they would support our project. The charter identified Livhuwani as
+Product Owner, Lwandile as Agile Lead, and Sello and Lerato as contributors
+to development, analysis and testing. It also outlined stand-ups, sprint
+planning, reviews and retrospectives, as well as the use of Teams,
+WhatsApp and email for communication.
+
+### Result
+
+The charter gave us a foundation for assigning responsibilities and
+communicating as a team. However, some tasks still overlapped between
+roles, showing me that written roles need to be supported by clear task
+ownership and regular discussion.
+
+I also noticed that the original charter referred to Youth Catalyst Lab
+and deliverables that did not fully match the later CareerCraft concept.
+I learned that a charter should be revisited as a project evolves. In
+future, I would review it during retrospectives, update its scope and
+Definition of Done, and clarify how decisions are made.
 
 [Back to Top](#careercraft--agile-project-portfolio)
 
@@ -211,18 +247,16 @@ If I did this again I would keep CareerCraft as the only product name on new car
 ## 4. Sprint Backlog
 
 This section presents the tasks selected for sprint execution, including the planned activities and work required to achieve the sprint goals.
-
+---
 ### Evidence
 <img width="330" height="661" alt="image" src="https://github.com/user-attachments/assets/0d8454e1-41f9-4d80-a9cc-9c5ea95518e5" />
 <img width="333" height="645" alt="image" src="https://github.com/user-attachments/assets/2c65a818-198a-4dba-a3b8-0c4dc2a4ba6b" />
 <img width="327" height="643" alt="image" src="https://github.com/user-attachments/assets/80fe6450-6fb8-46a5-9d03-12d281be4df8" />
 
-
+---
 
 
 ### Reflection
-
-## Reflection: Sprint Backlog
 
 ### Situation
 
@@ -312,6 +346,8 @@ prototype versions so that each entry is easier to verify.
 **CareerCraft | Project Presentation 3 | 2026**
 
 https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTIb5130f0bbee2eea64b414987cf0dbe800E0BF93E/careercraft
+
+
 
 
 
