@@ -53,7 +53,7 @@ Currently seeking a Work Integrated Learning opportunity to apply academic knowl
 
 ---
 
-## Reflection on Coding my CV in Markdown 
+## Reflection 
 
 **Situation:**  
 I was required to create a professional CV using Markdown as part of my digital portfolio assessment , it was not easy at first because it was my first time using markdown and GitHub,but i check tutorials, instructions and my lessons and I finally go it right.
@@ -139,7 +139,9 @@ and review the charter after the first sprints rather than leaving it as a start
 This section presents the user stories and tasks identified to understand project requirements and break down the work into manageable activities.
 ---
 ### Evidence
-https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Team%20Charter/Evidence.pdf
+
+https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTIb5130f0bbee2eea64b414987cf0dbe800E0BF93E/careercraft
+
 ---
 ### Reflection
 
