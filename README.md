@@ -142,7 +142,7 @@ This section presents the user stories and tasks identified to understand projec
 https://github.com/Leratogertrude/Lerato-Gertrude-Motshweni/blob/main/Agile%20Team%20Charter/Evidence.pdf
 
 ### Reflection
-[Read My Reflection](./User-Stories-and-Tasks/Reflection.md)
+
 
 [Back to Top](#careercraft--agile-project-portfolio)
 
@@ -220,9 +220,40 @@ This section presents the tasks selected for sprint execution, including the pla
 
 
 
+### Reflection
 
+## Reflection: Sprint Backlog
 
-[Read My Reflection](./Sprint-Backlog/Reflection.md)
+### Situation
+
+During Sprint 5 of the CareerCraft project, our team focused on designing
+the core user experience in Figma. After presenting the initial prototype,
+we received feedback that its dark theme was difficult to read.
+
+### Task
+
+The team needed to revise the prototype and prepare it for a follow-up
+demonstration. My task was to research colour contrast and accessible palette
+guidance so that the revised design would be easier to read.
+
+### Action
+
+I researched colour contrast and contributed to a colour-contrast reference
+guide. The team divided the remaining work across the sprint backlog: members
+updated the job-matching, profile, CV builder and dashboard screens, while
+we worked together to consolidate the prototype and review the changes.
+
+### Result
+
+The team produced a brighter prototype and completed an internal walkthrough.
+The sprint backlog helped make the selected work and responsibilities clear,
+while the contrast guide supported a more consistent approach to the redesign.
+
+I learned that a sprint backlog should be flexible enough to respond to
+feedback while keeping the team focused on its sprint goal. In future, I
+would check accessibility earlier in the design process and make sure that
+related tasks and acceptance criteria are clear before implementation.
+
 
 [Back to Top](#careercraft--agile-project-portfolio)
 
@@ -236,7 +267,43 @@ This section documents project progress, team activities, sprint planning, daily
 <!-- Insert Agile Logbook evidence here -->
 
 ### Reflection
-[Read My Reflection](./Agile-Logbook/Reflection.md)
+
+### Situation
+
+During the CareerCraft project, our team used an Agile logbook to record
+sprint activities, plans and blockers. The logbook helped us track our work
+across activities such as backlog refinement, prototype design and responding
+to lecturer feedback.
+
+### Task
+
+As a team member involved in analysis and testing, I needed to keep track of
+my responsibilities, communicate progress and identify issues that could
+affect the team’s work.
+
+### Action
+
+During Sprint 4, I worked with Lwandile to refine unclear user stories and
+task descriptions after the team reviewed lecturer feedback. The logbook
+recorded the team’s progress, including discussions about overlapping task
+ownership and plans for the design sprint.
+
+In Sprint 5, I researched colour contrast and accessible palette guidance
+after the lecturer identified readability concerns in the prototype. The
+logbook recorded this work alongside the team’s screen updates and plans for
+a follow-up review.
+
+### Result
+
+The logbook provided a record of what the team reported completing, what was
+planned next and which blockers needed attention. It helped connect our
+backlog work and design changes to the feedback we received.
+
+I learned that recording progress is important not only for tracking tasks
+but also for explaining how decisions were made. In future, I would record
+updates as work happens and attach links to Trello cards, feedback and
+prototype versions so that each entry is easier to verify.
+```
 
 [Back to Top](#careercraft--agile-project-portfolio)
 
